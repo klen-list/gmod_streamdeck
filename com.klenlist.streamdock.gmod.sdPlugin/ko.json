@@ -1,0 +1,12 @@
+{
+  "Name": "Garry's Mod",
+  "Description": "Garry's Mod Controller",
+  "Category": "Garry's Mod",
+  "com.klenlist.streamdock.gmod.concmd": {
+    "Name": "Console command",
+    "Tooltip": "Execute a console command"
+  },
+  "Localization": {
+    "Console Command": "Console command"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "gmod-streamdock-plugin",
+  "version": "1.0.0",
+  "author": "klenlist",
+  "main": "index.js",
+  "description": "Garry's Mod StreamDock NodeJS Plugin",
+  "scripts": {
+    "build": "ncc build index.js -m -o ./build && node autofile.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.3.0",
+    "got": "^14.6.6",
+    "log4js": "^6.9.1",
+    "ws": "^8.14.2"
+  }
+}
