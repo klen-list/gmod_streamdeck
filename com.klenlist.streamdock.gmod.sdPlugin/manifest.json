@@ -34,7 +34,7 @@
   "Category": "Garry's Mod",
   "CategoryIcon": "static/logo.png",
   "Version": "1.0.0",
-  "URL": "",
+  "URL": "https://github.com/klen-list/gmod_streamdeck",
   "OS": [
     {
       "Platform": "windows",
