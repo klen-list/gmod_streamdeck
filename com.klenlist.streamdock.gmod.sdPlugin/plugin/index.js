@@ -20,7 +20,7 @@ plugin.concmd = new Actions({
         //log.info('keyUp', payload, context)
         got.post('http://127.0.0.1:35428/concmd', {
             json: {
-                cmd: payload.settings?.cmd || 'echo "Hello from steamdock!"'
+                cmd: payload.settings?.cmd || 'echo "Hello from streamdock!"'
             }
         })
     },
